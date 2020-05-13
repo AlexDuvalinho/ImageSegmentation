@@ -1,5 +1,5 @@
 # ImageSegmentation
-Image Segmentation with different algorithms: including karger, boykov kolmogorov, pymaxflow and push relabel.
+Image Segmentation with different maxflow / mincut algorithms: Karger, Boykov-Kolmogorov, Pymaxflow and Push Relabel.
 
 The main components of the project are the following: 
 
